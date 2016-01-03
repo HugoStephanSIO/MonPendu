@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MonPendu</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Menu</string>
+    <string name="title_activity_aide">Aide</string>
+    <string name="aideRes"><u>AIDE :</u></string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_jeu_parcours">JeuParcoursActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
